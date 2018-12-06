@@ -1,0 +1,7 @@
+C:\Users\Света\source\repos\ReadersAndWriters\ReadersAndWriters\bin\Debug\ReadersAndWriters.exe.config
+C:\Users\Света\source\repos\ReadersAndWriters\ReadersAndWriters\bin\Debug\ReadersAndWriters.exe
+C:\Users\Света\source\repos\ReadersAndWriters\ReadersAndWriters\bin\Debug\ReadersAndWriters.pdb
+C:\Users\Света\source\repos\ReadersAndWriters\ReadersAndWriters\obj\Debug\ReadersAndWriters.csprojAssemblyReference.cache
+C:\Users\Света\source\repos\ReadersAndWriters\ReadersAndWriters\obj\Debug\ReadersAndWriters.csproj.CoreCompileInputs.cache
+C:\Users\Света\source\repos\ReadersAndWriters\ReadersAndWriters\obj\Debug\ReadersAndWriters.exe
+C:\Users\Света\source\repos\ReadersAndWriters\ReadersAndWriters\obj\Debug\ReadersAndWriters.pdb
