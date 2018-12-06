@@ -1,0 +1,7 @@
+C:\Users\Света\source\repos\PhylosopherDinner\PhylosopherDinner\bin\Debug\PhylosopherDinner.exe.config
+C:\Users\Света\source\repos\PhylosopherDinner\PhylosopherDinner\bin\Debug\PhylosopherDinner.exe
+C:\Users\Света\source\repos\PhylosopherDinner\PhylosopherDinner\bin\Debug\PhylosopherDinner.pdb
+C:\Users\Света\source\repos\PhylosopherDinner\PhylosopherDinner\obj\Debug\PhylosopherDinner.csprojAssemblyReference.cache
+C:\Users\Света\source\repos\PhylosopherDinner\PhylosopherDinner\obj\Debug\PhylosopherDinner.csproj.CoreCompileInputs.cache
+C:\Users\Света\source\repos\PhylosopherDinner\PhylosopherDinner\obj\Debug\PhylosopherDinner.exe
+C:\Users\Света\source\repos\PhylosopherDinner\PhylosopherDinner\obj\Debug\PhylosopherDinner.pdb
