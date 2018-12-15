@@ -1,0 +1,7 @@
+C:\Users\Света\source\repos\SleepingHaircutter\SleepingHaircutter\bin\Debug\SleepingHaircutter.exe.config
+C:\Users\Света\source\repos\SleepingHaircutter\SleepingHaircutter\bin\Debug\SleepingHaircutter.exe
+C:\Users\Света\source\repos\SleepingHaircutter\SleepingHaircutter\bin\Debug\SleepingHaircutter.pdb
+C:\Users\Света\source\repos\SleepingHaircutter\SleepingHaircutter\obj\Debug\SleepingHaircutter.csprojAssemblyReference.cache
+C:\Users\Света\source\repos\SleepingHaircutter\SleepingHaircutter\obj\Debug\SleepingHaircutter.csproj.CoreCompileInputs.cache
+C:\Users\Света\source\repos\SleepingHaircutter\SleepingHaircutter\obj\Debug\SleepingHaircutter.exe
+C:\Users\Света\source\repos\SleepingHaircutter\SleepingHaircutter\obj\Debug\SleepingHaircutter.pdb
